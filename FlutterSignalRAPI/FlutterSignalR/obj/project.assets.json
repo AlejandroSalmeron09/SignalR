@@ -2044,11 +2044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\FlutterSignalR.csproj",
+      "projectUniqueName": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\FlutterSignalR.csproj",
       "projectName": "FlutterSignalR",
-      "projectPath": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\FlutterSignalR.csproj",
+      "projectPath": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\FlutterSignalR.csproj",
       "packagesPath": "C:\\Users\\hugol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\obj\\",
+      "outputPath": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

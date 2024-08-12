@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlutterSignalR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d206cd0e185f84a555acfda8439f78412de5ffc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlutterSignalR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlutterSignalR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

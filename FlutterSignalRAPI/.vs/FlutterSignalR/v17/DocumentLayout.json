@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\",
+  "WorkspaceRootPath": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|c:\\users\\hugol\\source\\repos\\fluttersignalr\\fluttersignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|solutionrelative:fluttersignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|c:\\users\\hugol\\pictures\\signalr\\fluttersignalrapi\\fluttersignalr\\hubs\\contador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|solutionrelative:fluttersignalr\\hubs\\contador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|c:\\users\\hugol\\source\\repos\\fluttersignalr\\fluttersignalr\\hubs\\contador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|solutionrelative:fluttersignalr\\hubs\\contador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|c:\\users\\hugol\\pictures\\signalr\\fluttersignalrapi\\fluttersignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FCD15D-400F-45AF-9D1B-BB73A02A1133}|FlutterSignalR\\FlutterSignalR.csproj|solutionrelative:fluttersignalr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\Program.cs",
               "RelativeDocumentMoniker": "FlutterSignalR\\Program.cs",
-              "ToolTip": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\Program.cs",
+              "ToolTip": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\Program.cs",
               "RelativeToolTip": "FlutterSignalR\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T17:50:55.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Contador.cs",
-              "DocumentMoniker": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\Hubs\\Contador.cs",
+              "DocumentMoniker": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\Hubs\\Contador.cs",
               "RelativeDocumentMoniker": "FlutterSignalR\\Hubs\\Contador.cs",
-              "ToolTip": "C:\\Users\\hugol\\source\\repos\\FlutterSignalR\\FlutterSignalR\\Hubs\\Contador.cs",
+              "ToolTip": "C:\\Users\\hugol\\Pictures\\SignalR\\FlutterSignalRAPI\\FlutterSignalR\\Hubs\\Contador.cs",
               "RelativeToolTip": "FlutterSignalR\\Hubs\\Contador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T17:45:57.056Z",
               "EditorCaption": ""
